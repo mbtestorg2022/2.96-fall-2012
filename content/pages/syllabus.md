@@ -57,42 +57,439 @@ Grading
 
 The table below shows the breakdown of grades. Your final grade will be based on your overall performance in class.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Quiz | 15 |
-| Ratio Analysis | 10 |
-| Cases | 25 |
-| Projects | 25 |
-| Class Participation | 25 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ratio Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Cases
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Projects
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and Group Assignment |  {{< br >}}{{< br >}} Zipcar Case Study distributed {{< br >}}{{< br >}} Hubspot Case Study distributed {{< br >}}{{< br >}}  |
-| 2 | Business Plan I | Zipcar Case Study due |
-| 3 | Financial I | Problem Set 1 distributed |
-| 4 | Sales and Marketing I | Hubspot Case Study due |
-| 5 | Financial II | Problem Set 1 due |
-| 6 | Sales and Marketing II |  {{< br >}}{{< br >}} Ratio Analysis Group distributed {{< br >}}{{< br >}} Prelude Case distributed {{< br >}}{{< br >}}  |
-| 7 | Financial III | Project Progress Report distributed |
-| 8 | Intellectual Property and Licensing |  {{< br >}}{{< br >}} Designing & Building Yachts distributed {{< br >}}{{< br >}} SUL Part 1, Part 2 distributed {{< br >}}{{< br >}} HP Case Study distributed {{< br >}}{{< br >}}  |
-| 9 | Ratio Analysis I | Ratio Analysis Group due |
-| 10 | Ratio Analysis II | None |
-| 11 | Prelude Lobster Case | Prelude Case due |
-| 12 | Project Progress Report | Project Progress Report due |
-| 13 | Quiz Review | None |
-| 14 | Quiz | None |
-| 15 | Designing and Building Yachts | Designing & Building Yachts due |
-| 16 | Commoditization vs. Differentiation | SUL Part 1, Part 2 due |
-| 17 | Total Quality Management | None |
-| 18 | Entrepreneurship | None |
-| 19 | HP Printer Case |  {{< br >}}{{< br >}} HP Case Study due {{< br >}}{{< br >}} Technology Choice Case & Question distributed {{< br >}}{{< br >}}  |
-| 20 | Strategic Planning and Management of Technology |  {{< br >}}{{< br >}} Technology Choice Case & Question due {{< br >}}{{< br >}} Teradyne Business Plan distributed {{< br >}}{{< br >}} Pilkington Float Glass Assignment distributed {{< br >}}{{< br >}} Omniport Assignment distributed {{< br >}}{{< br >}}  |
-| 21 | Teradyne Business Plan |  {{< br >}}{{< br >}} Teradyne Business Plan due {{< br >}}{{< br >}} Ethics Assignment distributed {{< br >}}{{< br >}}  |
-| 22 | Pilkington Float Glass Case | Pilkington Float Glass Assignment due |
-| 23 | Omniport Houston Case | Omniport Assignment due |
-| 24 | Ethics | Ethics Assignment due |
-| 25 | Project Presentation | None |
-| 26 | Project Presentation (cont.) | None
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Group Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Zipcar Case Study distributed
+
+Hubspot Case Study distributed
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Business Plan I
+{{< tdclose >}}
+{{< tdopen >}}
+Zipcar Case Study due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Financial I
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 distributed
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Sales and Marketing I
+{{< tdclose >}}
+{{< tdopen >}}
+Hubspot Case Study due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Financial II
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Sales and Marketing II
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ratio Analysis Group distributed
+
+Prelude Case distributed
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Financial III
+{{< tdclose >}}
+{{< tdopen >}}
+Project Progress Report distributed
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Intellectual Property and Licensing
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Designing & Building Yachts distributed
+
+SUL Part 1, Part 2 distributed
+
+HP Case Study distributed
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Ratio Analysis I
+{{< tdclose >}}
+{{< tdopen >}}
+Ratio Analysis Group due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Ratio Analysis II
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Prelude Lobster Case
+{{< tdclose >}}
+{{< tdopen >}}
+Prelude Case due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Project Progress Report
+{{< tdclose >}}
+{{< tdopen >}}
+Project Progress Report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz Review
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Designing and Building Yachts
+{{< tdclose >}}
+{{< tdopen >}}
+Designing & Building Yachts due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Commoditization vs. Differentiation
+{{< tdclose >}}
+{{< tdopen >}}
+SUL Part 1, Part 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Total Quality Management
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Entrepreneurship
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+HP Printer Case
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+HP Case Study due
+
+Technology Choice Case & Question distributed
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Strategic Planning and Management of Technology
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Technology Choice Case & Question due
+
+Teradyne Business Plan distributed
+
+Pilkington Float Glass Assignment distributed
+
+Omniport Assignment distributed
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Teradyne Business Plan
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Teradyne Business Plan due
+
+Ethics Assignment distributed
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Pilkington Float Glass Case
+{{< tdclose >}}
+{{< tdopen >}}
+Pilkington Float Glass Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Omniport Houston Case
+{{< tdclose >}}
+{{< tdopen >}}
+Omniport Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Ethics
+{{< tdclose >}}
+{{< tdopen >}}
+Ethics Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Project Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Project Presentation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
