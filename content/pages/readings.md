@@ -58,7 +58,7 @@ Steenburgh, Thomas, Jill Avery, et al. "[HubSpot: Inbound Marketing and Web 2.0]
 Financial I
 {{< tdclose >}}
 {{< tdopen >}}
-Lynch, Merrill. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Understanding Financial Reports." (PDF)](https://web.sonoma.edu/users/s/stanny/_static/MLunderstandingfinancial.pdf) Merrill Lynch, Pierce, Fenner & Smith Inc., Report: L–10–03, 2003.
+Lynch, Merrill. ["Understanding Financial Reports." (PDF)](https://web.sonoma.edu/users/s/stanny/_static/MLunderstandingfinancial.pdf) Merrill Lynch, Pierce, Fenner & Smith Inc., Report: L–10–03, 2003.
 {{< tdclose >}}
 
 {{< trclose >}}
